@@ -11,5 +11,7 @@ Repositório contendo todos meus certificados até o momento e cursos que estou re
 
 * (Udemy) Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript. - 91h (**Andamento: 5% Concluido**).
 
+* (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 75% Concluido**).
+
 ### Pretensão de Cursos Futuros
-* Santander Code - 200h.
+* Santander Code - 2000h.
