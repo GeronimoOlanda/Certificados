@@ -1,5 +1,5 @@
 # Certificados
-Repositório contendo todos meus certificados até o momento e cursos que estou realizando.
+RepositÃ³rio contendo todos meus certificados atÃ© o momento e cursos que estou realizando.
 
 ### Cursando Atualmente: 
 
@@ -9,9 +9,9 @@ Repositório contendo todos meus certificados até o momento e cursos que estou re
 * (Udemy) Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - 144h (**Andamento: 60% Concluido**).
 
 
-* (Udemy) Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript. - 91h (**Andamento: 5% Concluido**).
+* (Udemy) Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript. - 91h (**Andamento: 12% Concluido**).
 
 * (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 80% Concluido**).
 
-### Pretensão de Cursos Futuros
+### PretensÃ£o de Cursos Futuros
 * Santander Code - 2000h.
