@@ -14,4 +14,4 @@ Repositório contendo todos meus certificados até o momento e cursos que estou 
 * (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 80% Concluido**).
 
 ### Pretensão de Cursos Futuros
-* Santander Code - 2000h.
+ *
