@@ -17,4 +17,4 @@ Repositório contendo todos meus certificados até o momento e cursos que estou 
  *
 
 ### Cursos Concluidos em 2021
-* * (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 100% Concluido**).
+* * (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 109h (**Andamento: 100% Concluido**).
