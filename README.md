@@ -11,7 +11,10 @@ Repositório contendo todos meus certificados até o momento e cursos que estou 
 
 * (Udemy) Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript. - 91h (**Andamento: 12% Concluido**).
 
-* (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 100% Concluido**).
+
 
 ### Pretensão de Cursos Futuros
  *
+
+### Cursos Concluidos em 2021
+* * (Udemy) Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - 159h (**Andamento: 100% Concluido**).
