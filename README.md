@@ -3,7 +3,7 @@ Repositório contendo todos meus certificados até o momento e cursos que estou 
 
 ### Cursando Atualmente: 
 
-* (Udemy) Desenvolvimento Android; Crie apps como: Instagram, WhatsApp, Flappy Bird, OLX, Ifood, Uber e muito mais - 107h (**Andamento: 22% Concluido**).
+* (Udemy) Seja Full-Stack com .NET 5, Angular + EF Core [2021]  - 36h - (**Andamento: 12% Concluido**).
 
 
 * (Udemy) Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - 144h (**Andamento: 60% Concluido**).
