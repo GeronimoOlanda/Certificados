@@ -10,8 +10,3 @@ Repositório contendo todos meus certificados até o momento e cursos que estou 
 
 
 * (Udemy) Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript. - 91h (**Andamento: 15% Concluido**).
-
-
-
-### Pretensão de Cursos Futuros
- *
